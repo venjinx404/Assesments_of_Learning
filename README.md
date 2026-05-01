@@ -1,2 +1,8 @@
 # Shop_Checkout_System
-1st sample project
+## Features
+- Input product name, price, quantity
+- Apply 15% discount
+- Rounded final price
+
+## Language
+Java
