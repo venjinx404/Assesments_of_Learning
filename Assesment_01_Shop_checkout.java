@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Assesment_01 {
+public class Assesment_01_Shop_checkout {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
