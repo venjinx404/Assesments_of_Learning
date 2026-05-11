@@ -55,7 +55,7 @@ public class Project_03 {
 
             Order o1 = new Order(name1, price1, qty1);
 
-            // Order 2 
+    
             System.out.print("Enter Product 2 Name: ");
             String name2 = sc.nextLine();
 
